@@ -1,6 +1,6 @@
-# untitled
+# BMI calcluator
 
-A new Flutter project.
+This is me staring to build apps in flutter to explore more.
 
 ## Getting Started
 
